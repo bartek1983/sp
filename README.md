@@ -26,3 +26,5 @@ ptk.Wypisz(i);
 system("pause");
 return 0;
 }
+#include <iostream>
+#include <time.h> //naglowek
